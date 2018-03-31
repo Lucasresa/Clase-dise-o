@@ -1,1 +1,1 @@
-# Clase-dise-o
+# Clase 1 diseño
